@@ -1,6 +1,7 @@
    // Uncomment on local
         let city = 'Álava'
 
+        
         // Uncomment on live site
         let shitCoinsUrl = new URL('http://shitcoins.club/atms/getAtmsData');
         //let city = '{{wf {&quot;path&quot;:&quot;test-town:name&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}';
